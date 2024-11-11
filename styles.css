@@ -20,7 +20,7 @@ body {
 .logo {
     display: block;
     margin: 0 auto 20px; 
-    max-width: 380px; /* Volledig = 580 */
+    max-width: 390px; /* Volledig = 580 */
     background-color: rgba(169, 223, 242, 1); /* Add blue background */
     padding: 20px; /* Optional: Adds spacing around the logo */
     border-radius: 8px; /* Optional: Rounds the corners */
